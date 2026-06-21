@@ -10,7 +10,7 @@ export default function Home() {
               NS
             </div>
             <div>
-              <p className="text-lg font-semibold"></p>YathRock
+              <p className="text-lg font-semibold"></p>Earth Movers
               <p className="text-xs text-slate-300">Adaptive Drilling Control Unit</p>
             </div>
           </a>
