@@ -204,7 +204,7 @@ export default function Home() {
                 <h3 className="text-xl font-semibold text-cyan-300">Co-Founder</h3>
                 <p className="mt-2 text-slate-200">Chandrasekaran AS. - Co-Founder & CTO</p>
                 <p className="text-slate-300">Email: chandru3928@gmail.com</p>
-                <p className="text-slate-300">Phone: +91 8300204917</p>
+                <p className="text-slate-300">Phone: +91 9787428864</p>
               </article>
             </div>
           </div>
