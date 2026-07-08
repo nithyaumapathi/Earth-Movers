@@ -8,6 +8,7 @@ Responsive startup company website built using Next.js, React, and Tailwind CSS.
 - TypeScript
 - Tailwind CSS
 
+
 ## Features
 - Responsive Design
 - Modern UI
