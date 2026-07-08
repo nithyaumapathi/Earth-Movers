@@ -196,15 +196,17 @@ export default function Home() {
             <div className="mt-8 grid gap-6 md:grid-cols-2">
               <article className="rounded-xl border border-white/10 bg-slate-900 p-6">
                 <h3 className="text-xl font-semibold text-cyan-300">Co-Founder</h3>
-                <p className="mt-2 text-slate-200">Shiyam Sankar S. - Co-Founder</p>
-                <p className="text-slate-300">Email: shiyamsankar2312@gmail.com</p>
-                <p className="text-slate-300">Phone: +91 8300204917</p>
+                <p className="mt-2 text-slate-200">Chandrasekaran A S. - Co-Founder</p>
+                <p className="text-slate-300">Email: chandru3928@gmail.com</p>
+                <p className="text-slate-300">Linkedin: https://www.linkedin.com/in/chandrasekaran-a-s-a29995202</p>
+                <p className="text-slate-300">Phone: +91 9787428864</p>
               </article>
               <article className="rounded-xl border border-white/10 bg-slate-900 p-6">
                 <h3 className="text-xl font-semibold text-cyan-300">Co-Founder</h3>
-                <p className="mt-2 text-slate-200">Chandrasekaran AS. - Co-Founder & CTO</p>
-                <p className="text-slate-300">Email: chandru3928@gmail.com</p>
-                <p className="text-slate-300">Phone: +91 9787428864</p>
+                <p className="mt-2 text-slate-200">Shiyam Sankar S. - Co-Founder</p>
+                <p className="text-slate-300">Email: shiyamsankar2312@gmail.com</p>
+                <p className="text-slate-300">Linkedin: https://www.linkedin.com/in/shiyam-sankar-s-045b51202/</p>
+                <p className="text-slate-300">Phone: +91 8300204917</p>
               </article>
             </div>
           </div>
