@@ -10,7 +10,7 @@ export default function Home() {
               NS
             </div>
             <div>
-              <p className="text-lg font-semibold"></p>Earth Movers
+              <p className="text-lg font-semibold"></p>YathRock
               <p className="text-xs text-slate-300">Adaptive Drilling Control Unit</p>
             </div>
           </a>
@@ -195,15 +195,15 @@ export default function Home() {
             </p>
             <div className="mt-8 grid gap-6 md:grid-cols-2">
               <article className="rounded-xl border border-white/10 bg-slate-900 p-6">
-                <h3 className="text-xl font-semibold text-cyan-300">Founder</h3>
-                <p className="mt-2 text-slate-200">Chandrasekaran AS. - Co-Founder & CEO</p>
-                <p className="text-slate-300">Email: chan3928@gmail.com</p>
-                <p className="text-slate-300">Phone: +91 9787428864</p>
+                <h3 className="text-xl font-semibold text-cyan-300">Co-Founder</h3>
+                <p className="mt-2 text-slate-200">Shiyam Sankar S. - Co-Founder</p>
+                <p className="text-slate-300">Email: shiyamsankar2312@gmail.com</p>
+                <p className="text-slate-300">Phone: +91 8300204917</p>
               </article>
               <article className="rounded-xl border border-white/10 bg-slate-900 p-6">
                 <h3 className="text-xl font-semibold text-cyan-300">Co-Founder</h3>
-                <p className="mt-2 text-slate-200">Shiyam Sankar S. - Co-Founder & CTO</p>
-                <p className="text-slate-300">Email: shyamsankar@gmail.com</p>
+                <p className="mt-2 text-slate-200">Chandrasekaran AS. - Co-Founder & CTO</p>
+                <p className="text-slate-300">Email: chandru3928@gmail.com</p>
                 <p className="text-slate-300">Phone: +91 8300204917</p>
               </article>
             </div>
